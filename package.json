@@ -1,0 +1,25 @@
+{
+  "name": "neural-network-1",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "neural",
+    "network",
+    "ia"
+  ],
+  "homepage": "https://github.com/ryanlaiber/neural-network-1#readme",
+  "bugs": {
+    "url": "https://github.com/ryanlaiber/neural-network-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryanlaiber/neural-network-1.git"
+  },
+  "license": "ISC",
+  "author": "Ryan Togneri Laiber",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
