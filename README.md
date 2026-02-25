@@ -1,9 +1,11 @@
-##Project to study models trainning with tensorflow.
+Project to study models trainning with tensorflow.
 
-###To run the project:
+Developed in Node.js v18
 
-####Node.js v18
+To run the project:
 
-####Terminal comands step by step:
+Terminal comands step by step:
+
 1 - npm install
+
 2 - npm start
