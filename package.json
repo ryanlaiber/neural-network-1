@@ -17,9 +17,13 @@
   },
   "license": "ISC",
   "author": "Ryan Togneri Laiber",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "start": "node --watch index.js",
     "test": "test"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
   }
 }
